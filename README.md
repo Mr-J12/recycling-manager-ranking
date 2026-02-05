@@ -8,6 +8,19 @@ A minimal, full-stack conceptual system to rank candidates using AI evaluations 
 - **AI Scoring:** Logic to rank based on Crisis Management, Sustainability, and Motivation.
 - **Dashboard:** Interactive React + Mantine UI with Leaderboards and Skill Heatmaps.
 
+## 📸 Screenshots
+**All Profiles view:** Browse candidate cards with quick scores and skills.
+
+![All Profiles view](frontend/public/1.png)
+
+**Leaderboard view:** Ranked table with category scores and total.
+
+![Leaderboard view](frontend/public/2.png)
+
+**Skill Analytics view:** Stacked skill breakdown across top candidates.
+
+![Skill Analytics view](frontend/public/3.png)
+
 ## 🛠 Setup
 
 ### 1. Data Generation
