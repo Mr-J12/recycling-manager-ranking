@@ -1,0 +1,798 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Ross Heidenreich DVM",
+      "email": "Gregoria97@hotmail.com",
+      "years_experience": 8,
+      "bio": "fundraising enthusiast, educator 🎃",
+      "skills": [
+        "Six Sigma",
+        "SCM",
+        "OSHA",
+        "Team Building"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Katherine O'Connell",
+      "email": "Mabelle30@yahoo.com",
+      "years_experience": 9,
+      "bio": "brace advocate, entrepreneur 🆖",
+      "skills": [
+        "Lean Mfg",
+        "OSHA"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Angel Padberg-Harris",
+      "email": "Reyna_Lynch2@yahoo.com",
+      "years_experience": 3,
+      "bio": "summer enthusiast, creator",
+      "skills": [
+        "OSHA",
+        "Team Building"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Robert Kub",
+      "email": "Jaquan_Batz@yahoo.com",
+      "years_experience": 15,
+      "bio": "footrest enthusiast, grad 🤘🏼",
+      "skills": [
+        "Six Sigma",
+        "Team Building",
+        "SCM"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Miriam Glover",
+      "email": "Kavon_Wehner@yahoo.com",
+      "years_experience": 3,
+      "bio": "sushi fan, musician 👱‍♀️",
+      "skills": [
+        "SCM",
+        "Team Building",
+        "Six Sigma"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dr. Marion Hessel",
+      "email": "Timmothy.Blanda47@yahoo.com",
+      "years_experience": 15,
+      "bio": "netsuke junkie, person",
+      "skills": [
+        "Team Building",
+        "SCM",
+        "Lean Mfg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Floyd Olson",
+      "email": "Kenny47@hotmail.com",
+      "years_experience": 13,
+      "bio": "awareness advocate  🤘🏼",
+      "skills": [
+        "Waste Reduction",
+        "Six Sigma",
+        "OSHA",
+        "SCM"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Clifford Pagac",
+      "email": "Leta75@gmail.com",
+      "years_experience": 12,
+      "bio": "musician",
+      "skills": [
+        "SCM",
+        "Six Sigma"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Michele Larkin",
+      "email": "Keanu_Leffler@yahoo.com",
+      "years_experience": 11,
+      "bio": "formamide lover, blogger",
+      "skills": [
+        "Waste Reduction",
+        "Team Building",
+        "Six Sigma",
+        "Lean Mfg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Jesse Wolff",
+      "email": "Orlando_Glover@yahoo.com",
+      "years_experience": 11,
+      "bio": "alliance devotee  💶",
+      "skills": [
+        "Six Sigma",
+        "Waste Reduction",
+        "Lean Mfg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Jerald Zieme",
+      "email": "Rex53@hotmail.com",
+      "years_experience": 3,
+      "bio": "disconnection lover, teacher",
+      "skills": [
+        "Waste Reduction",
+        "Lean Mfg",
+        "SCM",
+        "Six Sigma"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Gilberto Hintz",
+      "email": "Mariane.Murray@hotmail.com",
+      "years_experience": 5,
+      "bio": "philosopher",
+      "skills": [
+        "OSHA",
+        "SCM"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Dr. Rodney Hoppe",
+      "email": "Lillie.Kunde@hotmail.com",
+      "years_experience": 13,
+      "bio": "parent, student",
+      "skills": [
+        "Six Sigma",
+        "OSHA"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Ms. Kathy Roob",
+      "email": "Camren.Sauer99@yahoo.com",
+      "years_experience": 5,
+      "bio": "kinase supporter, dreamer",
+      "skills": [
+        "Waste Reduction",
+        "SCM"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Mrs. Ruby Ziemann",
+      "email": "Matilda44@hotmail.com",
+      "years_experience": 15,
+      "bio": "shark lover",
+      "skills": [
+        "Lean Mfg",
+        "SCM"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Evelyn Wisoky",
+      "email": "Emilio.Botsford@yahoo.com",
+      "years_experience": 12,
+      "bio": "gamer, scientist",
+      "skills": [
+        "Six Sigma",
+        "OSHA",
+        "SCM"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Marshall King",
+      "email": "Flavio.Harvey@gmail.com",
+      "years_experience": 6,
+      "bio": "character advocate  🛁",
+      "skills": [
+        "Lean Mfg",
+        "SCM"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Antonia Maggio",
+      "email": "Royce4@hotmail.com",
+      "years_experience": 14,
+      "bio": "blogger",
+      "skills": [
+        "Six Sigma",
+        "Team Building",
+        "Waste Reduction"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Jaime Gleason",
+      "email": "Ulices69@gmail.com",
+      "years_experience": 15,
+      "bio": "legend fan, writer",
+      "skills": [
+        "Lean Mfg",
+        "OSHA",
+        "SCM"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Mildred Ziemann",
+      "email": "Katelynn80@gmail.com",
+      "years_experience": 14,
+      "bio": "activist, dreamer",
+      "skills": [
+        "Lean Mfg",
+        "Waste Reduction",
+        "Team Building"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Silvia Wilderman V",
+      "email": "Brionna0@yahoo.com",
+      "years_experience": 15,
+      "bio": "musician, student",
+      "skills": [
+        "Six Sigma",
+        "Lean Mfg",
+        "Waste Reduction",
+        "SCM"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Manuel Raynor",
+      "email": "Caden.Bernier96@gmail.com",
+      "years_experience": 6,
+      "bio": "wheel enthusiast",
+      "skills": [
+        "Lean Mfg",
+        "Waste Reduction"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Freda O'Keefe",
+      "email": "Odessa_Cassin@gmail.com",
+      "years_experience": 6,
+      "bio": "adaptation enthusiast  📯",
+      "skills": [
+        "SCM",
+        "Waste Reduction",
+        "OSHA"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Lorena Dach",
+      "email": "Rodrigo.Halvorson44@yahoo.com",
+      "years_experience": 11,
+      "bio": "scarification advocate, film lover 👍🏼",
+      "skills": [
+        "Lean Mfg",
+        "OSHA",
+        "Team Building",
+        "SCM"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Ann Hilpert",
+      "email": "Chaim_Emmerich-Hackett76@hotmail.com",
+      "years_experience": 10,
+      "bio": "philosopher, activist",
+      "skills": [
+        "Waste Reduction",
+        "SCM"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Erika Runolfsdottir",
+      "email": "Cheyenne40@yahoo.com",
+      "years_experience": 7,
+      "bio": "nightlife fan  ✡️",
+      "skills": [
+        "Lean Mfg",
+        "SCM"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Matt Heathcote",
+      "email": "Alex_Ziemann23@hotmail.com",
+      "years_experience": 12,
+      "bio": "breastplate devotee",
+      "skills": [
+        "Lean Mfg",
+        "SCM"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Jenny Hane",
+      "email": "Jazmyne75@hotmail.com",
+      "years_experience": 8,
+      "bio": "morbidity lover  🚨",
+      "skills": [
+        "OSHA",
+        "Six Sigma",
+        "SCM"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Brad Kertzmann",
+      "email": "Myrtis.Tillman21@gmail.com",
+      "years_experience": 7,
+      "bio": "summary junkie",
+      "skills": [
+        "Lean Mfg",
+        "Waste Reduction",
+        "OSHA"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Nicolas Boehm",
+      "email": "Alf78@yahoo.com",
+      "years_experience": 9,
+      "bio": "thongs supporter, geek 💁‍♂️",
+      "skills": [
+        "OSHA",
+        "Team Building"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Mrs. Thelma Beahan",
+      "email": "Valentine57@yahoo.com",
+      "years_experience": 10,
+      "bio": "violin advocate, musician",
+      "skills": [
+        "Team Building",
+        "Six Sigma",
+        "SCM",
+        "OSHA"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Gregg Kling",
+      "email": "Declan_Rosenbaum49@gmail.com",
+      "years_experience": 9,
+      "bio": "bracelet enthusiast, entrepreneur",
+      "skills": [
+        "OSHA",
+        "Six Sigma"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Jon Wehner-Abernathy",
+      "email": "Judy_Rutherford3@hotmail.com",
+      "years_experience": 6,
+      "bio": "anticodon junkie  🪘",
+      "skills": [
+        "SCM",
+        "Waste Reduction",
+        "Team Building",
+        "Six Sigma"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Kate Moen",
+      "email": "Jevon84@yahoo.com",
+      "years_experience": 3,
+      "bio": "entrepreneur, veteran, environmentalist 🚥",
+      "skills": [
+        "Team Building",
+        "OSHA",
+        "SCM",
+        "Lean Mfg"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Mr. Neil Champlin",
+      "email": "Manuel60@hotmail.com",
+      "years_experience": 6,
+      "bio": "pleasure fan, dreamer",
+      "skills": [
+        "OSHA",
+        "SCM"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Angelina O'Conner",
+      "email": "Avis.Wiza@yahoo.com",
+      "years_experience": 5,
+      "bio": "patriot, business owner",
+      "skills": [
+        "Lean Mfg",
+        "Team Building"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Darren Kuhlman MD",
+      "email": "Angelita.Wiza@yahoo.com",
+      "years_experience": 7,
+      "bio": "grandson devotee, film lover 🇧🇶",
+      "skills": [
+        "Lean Mfg",
+        "OSHA"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Stewart Kuhic",
+      "email": "Bryana.Stoltenberg@hotmail.com",
+      "years_experience": 15,
+      "bio": "blight devotee  🆒",
+      "skills": [
+        "Team Building",
+        "OSHA",
+        "SCM"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Marco Jenkins PhD",
+      "email": "Constantin_Schaden@hotmail.com",
+      "years_experience": 15,
+      "bio": "model, environmentalist, patriot 🤧",
+      "skills": [
+        "Lean Mfg",
+        "SCM",
+        "Team Building"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Edith Cartwright II",
+      "email": "Summer.Sauer21@yahoo.com",
+      "years_experience": 13,
+      "bio": "geek, student",
+      "skills": [
+        "Waste Reduction",
+        "Six Sigma",
+        "Lean Mfg"
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "id": 1,
+      "candidate_id": 1,
+      "crisis_management_score": 6,
+      "sustainability_score": 10,
+      "team_motivation_score": 8,
+      "ai_feedback": "Ter crur contigo depono vitium ratione bardus cursim."
+    },
+    {
+      "id": 2,
+      "candidate_id": 2,
+      "crisis_management_score": 9,
+      "sustainability_score": 9,
+      "team_motivation_score": 9,
+      "ai_feedback": "Ventosus coepi audax textilis deripio tutis audio."
+    },
+    {
+      "id": 3,
+      "candidate_id": 3,
+      "crisis_management_score": 7,
+      "sustainability_score": 10,
+      "team_motivation_score": 6,
+      "ai_feedback": "Eius eligendi attero eum stipes labore conitor colo."
+    },
+    {
+      "id": 4,
+      "candidate_id": 4,
+      "crisis_management_score": 5,
+      "sustainability_score": 9,
+      "team_motivation_score": 8,
+      "ai_feedback": "Delectus valeo appositus amplexus acquiro auditor vehemens coma sunt articulus."
+    },
+    {
+      "id": 5,
+      "candidate_id": 5,
+      "crisis_management_score": 7,
+      "sustainability_score": 5,
+      "team_motivation_score": 10,
+      "ai_feedback": "Colo curiositas charisma."
+    },
+    {
+      "id": 6,
+      "candidate_id": 6,
+      "crisis_management_score": 9,
+      "sustainability_score": 5,
+      "team_motivation_score": 10,
+      "ai_feedback": "Tricesimus chirographum tepidus accommodo decerno clamo vigilo."
+    },
+    {
+      "id": 7,
+      "candidate_id": 7,
+      "crisis_management_score": 7,
+      "sustainability_score": 4,
+      "team_motivation_score": 6,
+      "ai_feedback": "Clementia adsuesco videlicet vis."
+    },
+    {
+      "id": 8,
+      "candidate_id": 8,
+      "crisis_management_score": 10,
+      "sustainability_score": 9,
+      "team_motivation_score": 8,
+      "ai_feedback": "Tego degero utrum delinquo cito."
+    },
+    {
+      "id": 9,
+      "candidate_id": 9,
+      "crisis_management_score": 8,
+      "sustainability_score": 8,
+      "team_motivation_score": 6,
+      "ai_feedback": "Ager clementia spargo despecto."
+    },
+    {
+      "id": 10,
+      "candidate_id": 10,
+      "crisis_management_score": 7,
+      "sustainability_score": 7,
+      "team_motivation_score": 10,
+      "ai_feedback": "Vergo traho sopor vacuus tergum."
+    },
+    {
+      "id": 11,
+      "candidate_id": 11,
+      "crisis_management_score": 7,
+      "sustainability_score": 9,
+      "team_motivation_score": 9,
+      "ai_feedback": "Umquam suscipio magnam voluptatibus turbo comis."
+    },
+    {
+      "id": 12,
+      "candidate_id": 12,
+      "crisis_management_score": 10,
+      "sustainability_score": 10,
+      "team_motivation_score": 9,
+      "ai_feedback": "Arca temporibus adipiscor aeger."
+    },
+    {
+      "id": 13,
+      "candidate_id": 13,
+      "crisis_management_score": 8,
+      "sustainability_score": 10,
+      "team_motivation_score": 7,
+      "ai_feedback": "Angustus cupressus non aedificium velociter sint adipisci aggredior."
+    },
+    {
+      "id": 14,
+      "candidate_id": 14,
+      "crisis_management_score": 5,
+      "sustainability_score": 10,
+      "team_motivation_score": 8,
+      "ai_feedback": "Vero fugiat odio."
+    },
+    {
+      "id": 15,
+      "candidate_id": 15,
+      "crisis_management_score": 8,
+      "sustainability_score": 8,
+      "team_motivation_score": 10,
+      "ai_feedback": "Deduco textus porro coadunatio despecto."
+    },
+    {
+      "id": 16,
+      "candidate_id": 16,
+      "crisis_management_score": 5,
+      "sustainability_score": 5,
+      "team_motivation_score": 9,
+      "ai_feedback": "Thema vix apparatus civitas undique."
+    },
+    {
+      "id": 17,
+      "candidate_id": 17,
+      "crisis_management_score": 8,
+      "sustainability_score": 8,
+      "team_motivation_score": 10,
+      "ai_feedback": "Talus abbas placeat sit ante una attonbitus territo."
+    },
+    {
+      "id": 18,
+      "candidate_id": 18,
+      "crisis_management_score": 10,
+      "sustainability_score": 7,
+      "team_motivation_score": 7,
+      "ai_feedback": "Odit ager acerbitas ustilo vetus distinctio."
+    },
+    {
+      "id": 19,
+      "candidate_id": 19,
+      "crisis_management_score": 9,
+      "sustainability_score": 5,
+      "team_motivation_score": 9,
+      "ai_feedback": "Capto delectatio debeo decerno decor eius."
+    },
+    {
+      "id": 20,
+      "candidate_id": 20,
+      "crisis_management_score": 8,
+      "sustainability_score": 7,
+      "team_motivation_score": 6,
+      "ai_feedback": "Praesentium cito coma vociferor unus aestas vitiosus autem stella tametsi."
+    },
+    {
+      "id": 21,
+      "candidate_id": 21,
+      "crisis_management_score": 10,
+      "sustainability_score": 7,
+      "team_motivation_score": 9,
+      "ai_feedback": "Aureus vester tondeo confugo maiores excepturi alius tui."
+    },
+    {
+      "id": 22,
+      "candidate_id": 22,
+      "crisis_management_score": 6,
+      "sustainability_score": 9,
+      "team_motivation_score": 10,
+      "ai_feedback": "Dedico ocer abscido praesentium adiuvo totidem necessitatibus cultellus esse coruscus."
+    },
+    {
+      "id": 23,
+      "candidate_id": 23,
+      "crisis_management_score": 6,
+      "sustainability_score": 5,
+      "team_motivation_score": 9,
+      "ai_feedback": "Cultellus deinde viscus arcus antea cavus totam atque triduana atavus."
+    },
+    {
+      "id": 24,
+      "candidate_id": 24,
+      "crisis_management_score": 6,
+      "sustainability_score": 8,
+      "team_motivation_score": 10,
+      "ai_feedback": "Studio sumptus aptus timor vox tero suscipit."
+    },
+    {
+      "id": 25,
+      "candidate_id": 25,
+      "crisis_management_score": 9,
+      "sustainability_score": 7,
+      "team_motivation_score": 9,
+      "ai_feedback": "Cernuus aetas cresco deleniti."
+    },
+    {
+      "id": 26,
+      "candidate_id": 26,
+      "crisis_management_score": 10,
+      "sustainability_score": 5,
+      "team_motivation_score": 7,
+      "ai_feedback": "Astrum sperno assentator accusator deprecator tabernus talus."
+    },
+    {
+      "id": 27,
+      "candidate_id": 27,
+      "crisis_management_score": 9,
+      "sustainability_score": 10,
+      "team_motivation_score": 7,
+      "ai_feedback": "Antepono combibo certe vitae video."
+    },
+    {
+      "id": 28,
+      "candidate_id": 28,
+      "crisis_management_score": 8,
+      "sustainability_score": 8,
+      "team_motivation_score": 7,
+      "ai_feedback": "Templum corroboro torqueo voco demitto acceptus congregatio spiritus viscus."
+    },
+    {
+      "id": 29,
+      "candidate_id": 29,
+      "crisis_management_score": 8,
+      "sustainability_score": 8,
+      "team_motivation_score": 10,
+      "ai_feedback": "Theca vulnus facilis antepono demo quod soleo."
+    },
+    {
+      "id": 30,
+      "candidate_id": 30,
+      "crisis_management_score": 6,
+      "sustainability_score": 7,
+      "team_motivation_score": 10,
+      "ai_feedback": "Thymbra esse voluptas suscipit crinis."
+    },
+    {
+      "id": 31,
+      "candidate_id": 31,
+      "crisis_management_score": 8,
+      "sustainability_score": 6,
+      "team_motivation_score": 7,
+      "ai_feedback": "Perferendis candidus conduco assumenda atqui tardus vorago."
+    },
+    {
+      "id": 32,
+      "candidate_id": 32,
+      "crisis_management_score": 8,
+      "sustainability_score": 6,
+      "team_motivation_score": 10,
+      "ai_feedback": "Uterque amet beatus suffoco."
+    },
+    {
+      "id": 33,
+      "candidate_id": 33,
+      "crisis_management_score": 9,
+      "sustainability_score": 5,
+      "team_motivation_score": 6,
+      "ai_feedback": "Sponte absum natus substantia vox acervus confugo aequitas canis cunctatio."
+    },
+    {
+      "id": 34,
+      "candidate_id": 34,
+      "crisis_management_score": 5,
+      "sustainability_score": 10,
+      "team_motivation_score": 10,
+      "ai_feedback": "Crebro aeger laudantium vulticulus curo vestrum velit denego."
+    },
+    {
+      "id": 35,
+      "candidate_id": 35,
+      "crisis_management_score": 9,
+      "sustainability_score": 4,
+      "team_motivation_score": 10,
+      "ai_feedback": "Arca quo aegrus umquam tamen sublime."
+    },
+    {
+      "id": 36,
+      "candidate_id": 36,
+      "crisis_management_score": 9,
+      "sustainability_score": 4,
+      "team_motivation_score": 7,
+      "ai_feedback": "Excepturi quod tantum."
+    },
+    {
+      "id": 37,
+      "candidate_id": 37,
+      "crisis_management_score": 6,
+      "sustainability_score": 6,
+      "team_motivation_score": 9,
+      "ai_feedback": "Vix sperno verumtamen stella canto."
+    },
+    {
+      "id": 38,
+      "candidate_id": 38,
+      "crisis_management_score": 7,
+      "sustainability_score": 9,
+      "team_motivation_score": 9,
+      "ai_feedback": "Spiculum amoveo tripudio spes vitiosus viriliter vorago."
+    },
+    {
+      "id": 39,
+      "candidate_id": 39,
+      "crisis_management_score": 6,
+      "sustainability_score": 8,
+      "team_motivation_score": 6,
+      "ai_feedback": "Infit suasoria tredecim cavus voluptatibus cursus comparo."
+    },
+    {
+      "id": 40,
+      "candidate_id": 40,
+      "crisis_management_score": 10,
+      "sustainability_score": 9,
+      "team_motivation_score": 6,
+      "ai_feedback": "Quos sollers fugit contego vulgivagus aiunt viriliter."
+    }
+  ]
+}
